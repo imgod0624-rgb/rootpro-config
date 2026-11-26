@@ -1,0 +1,10 @@
+{
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0",
+  "apkUrl": "https://example.com/rootpro.apk",
+  "changelog": "Initial release.",
+  "forceUpdate": false,
+  "bannerTitle": "Root Access Info",
+  "bannerSub": "Tap to open installed root manager.",
+  "telegramUsername": "jordannn6"
+}
